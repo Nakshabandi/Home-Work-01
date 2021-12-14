@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+
+<title>Learnig Html</title>
+</head>
+
+<body>
+<h1 style="font-style:Bold; color:red;text-align:center;"> Welcome To Student Profile</h1>
+<h2 style="font-style:bold; color:green;"> Personal Profile </h2>
+<p style="color:#E81317; text-align:left-side;"> Profile  Name: Abdullah Al Shahed<br> Student Id:1834902507</p>
+
+</body>
+</html>
